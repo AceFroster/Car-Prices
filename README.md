@@ -57,7 +57,3 @@ The dataset used for this project is publicly available on Kaggle:
 
 ## Contributing 🤝
 If you have suggestions or improvements, feel free to fork this repo and submit a pull request!
-
-## License 📜
-This project is open-source and available under the **MIT License**.
-
